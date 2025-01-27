@@ -20,6 +20,6 @@
  
 
  🌟 Live Demo  
-Try it out now: [Live Calculator](insert_live_demo_url_here)  
+Try it out now:https://evanlemuel23.github.io/Calculator/
 
   
